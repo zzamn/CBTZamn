@@ -1,0 +1,10 @@
+{
+  "name": "cbtzamn",
+  "version": "1.0.0",
+  "description": "Checks if you say 'Cock and balls' or 'Balls and cock' ikik pretty useful 😏",
+  "main": "index.js",
+  "repository": "https://github.com/zzamn/CBTZamn",
+  "author": "Zzamn 🥵",
+  "license": "MIT",
+  "private": false
+}

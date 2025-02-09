@@ -5,4 +5,5 @@ export function isBallsAndCock(x) {
 }
 
 const CBT = {...b, isBallsAndCock }
+console.log("PAM PA-PAM! CBT all functional, sir! sir, yes sir!!")
 export default CBT
